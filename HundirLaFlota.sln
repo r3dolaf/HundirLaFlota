@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HundirLaFlota", "HundirLaFlota.csproj", "{17B7845B-56EF-4267-BA6C-46C24AB2AE4D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{81C31486-B9E7-48C9-BEF3-AEC81FDA251B}"
+	ProjectSection(SolutionItems) = preProject
+		Game.cs = Game.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17B7845B-56EF-4267-BA6C-46C24AB2AE4D}.Debug|x86.ActiveCfg = Debug|x86
+		{17B7845B-56EF-4267-BA6C-46C24AB2AE4D}.Debug|x86.Build.0 = Debug|x86
+		{17B7845B-56EF-4267-BA6C-46C24AB2AE4D}.Release|x86.ActiveCfg = Release|x86
+		{17B7845B-56EF-4267-BA6C-46C24AB2AE4D}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5FC27BEA-5014-4ECE-8ADF-31FC8AE5017F}
+	EndGlobalSection
+EndGlobal
